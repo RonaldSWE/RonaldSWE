@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Ronald (Reodesu)
 
-<!--
-**RonaldSWE/RonaldSWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Game Developer | 💻 Programmer | 🚀 Learning every day
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Python (Flask)
+- JavaScript (React, React Native, Node.js, Phaser.js)
+- C++
+  
+## 🔥 Projects
+- 🔐 Encrypt & Decrypt Python Script
+-  💪 Muscle Map(web and mobile)
+- 🎮 Hell Storm (Phaser.js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 About Me
+- From Nigeria 🇳🇬
+- Interested in web, mobile and game dev, cybersecurity and Robotics
+
+## 📫 Connect
+- YouTube: Reo Code
