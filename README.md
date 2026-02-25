@@ -4,13 +4,14 @@
 
 ## 🛠 Skills
 - Python (Flask)
-- JavaScript (React, React Native, Node.js, Phaser.js)
+- JavaScript and TypeScript (React, React Native, Node.js, Phaser.js)
 - C++
   
 ## 🔥 Projects
 - 🔐 Encrypt & Decrypt Python Script
 -  💪 Muscle Map(web and mobile)
 - 🎮 Hell Storm (Phaser.js)
+- 🎧 PhonkBox
 
 ## 🌍 About Me
 - From Nigeria 🇳🇬
